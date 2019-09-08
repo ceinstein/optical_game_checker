@@ -1,2 +1,2 @@
 # optical_game_checker
-Valid and winning configuration checker for games played through a non-digital medium
+Valid and winning game configurations checker for games played in a non-digital medium
